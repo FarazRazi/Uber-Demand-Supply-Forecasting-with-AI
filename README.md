@@ -75,3 +75,9 @@ The Weather Information Table shows the weather info every 10 minutes each city.
 | Weather     | int    | Weather     | 7                   |
 | temperature | double | Temperature | -9                  |
 | PM2.5       | double | pm25        | 66                  |
+
+# Feature Selection
+
+![feature_selection](https://user-images.githubusercontent.com/72218210/233429899-38fff610-5374-4741-8748-ad270d994d04.png)
+
+
